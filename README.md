@@ -4,7 +4,7 @@ A dynamic machine learning based framework for Edge Computing in Video Analytics
 
 The output videos have been attached in this repository.
 
-<img src="https://sidharth-dinesh.github.io/assets/img/Input%20Capture.PNG" alt="Input" width="700" height="500">
+<img src="https://sidharth-dinesh.github.io/assets/img/Input%20Capture.PNG" alt="Input" width="400" height="300">
 
-<img src="https://sidharth-dinesh.github.io/assets/img/Output%20Capture.PNG" alt="Output" width="700" height="500">
+<img src="https://sidharth-dinesh.github.io/assets/img/Output%20Capture.PNG" alt="Output" width="300" height="300">
 
