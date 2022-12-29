@@ -1,6 +1,8 @@
 # Edge-Computing
 
-A dynamic machine learning based framework for Edge Computing in Video Analytics Applications. The framework intends to tie together computationally weak front-end devices with more powerful back-end helpers to allow YOLOv3 CNN to choose local or remote execution. We are working towards using current estimates of network conditions in conjunction with the Application’s requirements. By considering specific trade-offs of deep learning models an optimal offload strategy is to be determined.
+Published Journal article introduces an Improved Search and Rescue Optimization based LB Scheme for Edge Computing Environment (ISROLBS-ECE) that majorly concentrates on the distribution of offloading tasks to neighboring edge servers effectively.  
+
+<a href= "https://onlinelibrary.wiley.com/doi/10.1002/cpe.7556">Journal Link</a>
 
 The output videos have been attached in this repository.
 
